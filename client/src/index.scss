@@ -1,0 +1,34 @@
+$black: #060707;
+$red: #c10c12;
+$light-grey: #ebeeee;
+$medium-grey: #aeaeae;
+$dark-grey: #5e5f5f;
+
+.text-light-grey {
+	color: $light-grey;
+}
+
+.text-medium-grey {
+	color: $medium-grey;
+}
+
+.text-dark-grey {
+	color: $dark-grey;
+}
+
+.bg-my-red {
+  background-color: $red;
+}
+
+.bg-my-black {
+  background-color: $black;
+}
+
+body {
+	background-color: $black;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: initial;
+}

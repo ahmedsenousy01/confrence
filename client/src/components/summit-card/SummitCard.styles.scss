@@ -1,0 +1,24 @@
+.inperson-or-not {
+	color: #0f61ff;
+	font-size: 13px;
+}
+
+.city {
+	font-size: 22px;
+	font-weight: 700;
+  transition: all .3s;
+}
+
+.date {
+	font-size: 15px;
+}
+
+.venue {
+	font-size: 13px;
+}
+
+.inner:hover {
+	.city {
+		color: #0f61ff;
+	}
+}
