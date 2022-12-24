@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.674d71d8.css",
+    "main.js": "/static/js/main.cd8602c4.js",
+    "static/media/carousel-3.jpg": "/static/media/carousel-3.2ef1add0c55af022f8e1.jpg",
+    "static/media/carousel-4.jpg": "/static/media/carousel-4.31affffe554df2e1bc87.jpg",
+    "static/media/carousel-2.jpg": "/static/media/carousel-2.1f17fa19ddb852770407.jpg",
+    "static/media/carousel-1.jpg": "/static/media/carousel-1.89d8629cdd9f7b6efa56.jpg",
+    "static/media/ahmed-ammar.jpeg": "/static/media/ahmed-ammar.e38a0c8629847dbfb6d0.jpeg",
+    "static/media/mostafa-ezz.jpeg": "/static/media/mostafa-ezz.7b9e2f3457bd26987511.jpeg",
+    "static/media/abdurahman_ashraf.jpeg": "/static/media/abdurahman_ashraf.246f1a878648bd4f108f.jpeg",
+    "static/media/hasan-ragab.jpg": "/static/media/hasan-ragab.7ab218ccaffd430f0e55.jpg",
+    "static/media/ahmed-senousy.jpg": "/static/media/ahmed-senousy.eee4383e2642379a56fb.jpg",
+    "static/media/cyber-sec-logo.png": "/static/media/cyber-sec-logo.f214a9f08a788ed2e551.png",
+    "index.html": "/index.html",
+    "main.674d71d8.css.map": "/static/css/main.674d71d8.css.map",
+    "main.cd8602c4.js.map": "/static/js/main.cd8602c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.674d71d8.css",
+    "static/js/main.cd8602c4.js"
+  ]
+}

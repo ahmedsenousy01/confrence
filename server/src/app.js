@@ -13,10 +13,10 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
 //routes
-app.get('/', async (req, res) => {
-  res.sendFile(path.join(__dirname, '..', 'public', 'index.html'));
-})
 app.use('/users', userRouter);
 app.use('/summits', summitRouter);
+app.get('/*', (req, res) => {
+  res.sendFile(path.join(__dirname, '..', 'public', 'index.html'));
+})
 
 module.exports = app;
