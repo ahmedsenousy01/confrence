@@ -6,9 +6,7 @@ const userRouter = require('./routes/user.routes')
 const summitRouter = require('./routes/summit.routes')
 
 // middleware
-app.use(cors({
-  origin: 'http://localhost:3000'
-}));
+app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
